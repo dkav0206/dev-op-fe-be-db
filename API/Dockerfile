@@ -1,4 +1,4 @@
-FROM node:80
+FROM node:20
 
 WORKDIR /express
 
